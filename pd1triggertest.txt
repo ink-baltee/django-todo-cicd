@@ -1,0 +1,1 @@
+this is the trigger test file for the pipeline docker1 file.
